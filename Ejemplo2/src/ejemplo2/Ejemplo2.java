@@ -16,6 +16,21 @@ public class Ejemplo2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       String nombres;
+        nombres = "Gilmar Alexander";
+        System.out.println(nombres);
+        String apellidos;
+        apellidos = "Jimenez Medina";
+        System.out.println(apellidos);
+        String universidad;
+        universidad = "Universidad Tecnica Particular de Loja";
+        System.out.println(universidad);
+        int edad;
+        edad = 22;
+        System.out.println(edad);
+        
+        
+        
     }
     
 }
